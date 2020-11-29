@@ -1,49 +1,58 @@
-Sonya Sawtelle
-======
+Christian PATRY
+===============
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+#### Ingénieur Cloud Devops, 7 ans d'expérience
+###### [ [linkedin.com/in/christianpatry](https://www.linkedin.com/in/christianpatry) ] - [ xxxxxxxxxx.xxxxx@gmail.com ]
+###### [ 06.xx.xx.xx.xx ] - [ xxx xxx xx xxxxx, 69004 Lyon ]
 
 
-Education
+Formation
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
+**Génie Informatique, Université de Technologie de Compiègne** (2010-2013)
 
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
+**DUT Informatique, IUT Paris Descartes** (2008-2010)
 
-**B.S. in Physics, Indiana University** (2008-2011)
+Expérience
+----------
+**Ingénieur Cloud Devops, Polyconseil** (janv. 2019 - Aujourd'hui, Paris)
 
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
+- *Déploiement et optimisation d'infrastructure Cloud AWS et GCP*
+- Cloud Architecture, FinOps, AWS EKS, GKE, Cloud Refactoring et Replatforming
 
-**MOOCs** (ongoing)
+**Consultant Senior Cloud, Gameloft-Polyconseil** (avr. 2019, juil. 2020, Montréal)
 
-- Machine Learning (Stanford, Andrew Ng)
+- *Lead technique pour l'accélération d'une migration cloud AWS*
+- Audit, Serverless, CI/CD, Terraform, PaaS, Business Plans
 
-Experience
+**Ingénieur Système Devops, Polyconseil** (nov. 2015, janv. 2019, Paris)
+
+- *Automatisation contenerisation et reproductibilité*
+- Ansible, Docker, Kubernetes, AWS Cloudformation, Prometheus, MongoDB
+
+**Ingénieur Infrastructure, Coyote Systems** (oct. 2014 - oct. 2015, Suresnes)
+
+- *Haute exigence de disponibilité sur infra on-prem*
+- Temps réel, PostgreSQL, SAN, VMWare, Astreinte, AWS EC2
+
+**Ingénieur Linux, Smile Open Source Solutions** (févr. 2013 - sept. 2014, Levallois)
+
+- *Intégrateur de solutions open source, spécialiste tests de charge*
+- JMeter, OpenLDAP, High Availability, Puppet
+
+Certifications
+--------------
+- **AWS Certified Solutions Architect – Associate** (févr. 2019)
+- **AWS Certified Solutions Architect – Professional** (juin 2020)
+- **TOEIC**, 960/990 (juin 2012)
+
+Langues
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Français**, langue maternelle
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+**Anglais**, compétence professionnelle complète (1 an au Canada en milieu anglophone)
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
-
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
-
-Skills
-------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
-
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
-
-Awards
-------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
-
-Projects
---------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+Centres d’Intérêt
+-----------------
+- Randonnée pédestre
+- Danses de salon, Jive, Rock
+- Passionné d'horlogerie et d’automobile
